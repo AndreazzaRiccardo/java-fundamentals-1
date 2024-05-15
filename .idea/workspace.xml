@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86903e99-342f-4b8a-9cc3-e16a5dd53e57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-fundamentals-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/learning/BestFoods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/learning/CalcTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/learning/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/learning/GuestList.java" afterDir="false" />
+    <list default="true" id="86903e99-342f-4b8a-9cc3-e16a5dd53e57" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/org/learning/ExBonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AndreazzaRiccardo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AndreazzaRiccardo/java-fundamentals-1.git",
+    "accountId": "b735f954-11ac-4303-90f6-d67fcbe02636"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -46,6 +50,7 @@
   "keyToString": {
     "Application.BestFoods.executor": "Run",
     "Application.CalcTicket.executor": "Run",
+    "Application.ExBonus.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.GuestList.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -59,7 +64,7 @@
       <command value="priceWithDiscount" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.GuestList">
+  <component name="RunManager" selected="Application.ExBonus">
     <configuration name="BestFoods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.learning.BestFoods" />
       <module name="java-fundamentals-1" />
@@ -75,6 +80,19 @@
     </configuration>
     <configuration name="CalcTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.learning.CalcTicket" />
+      <module name="java-fundamentals-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExBonus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.learning.ExBonus" />
       <module name="java-fundamentals-1" />
       <extension name="coverage">
         <pattern>
@@ -114,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExBonus" />
         <item itemvalue="Application.GuestList" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.BestFoods" />
@@ -130,6 +149,30 @@
       <option name="presentableId" value="Default" />
       <updated>1715775050430</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1715779135003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715779135003</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
